@@ -8,7 +8,7 @@ The Mandelbrot\`s fractal was written using naive Mandelbrot\`s algorithm.
 
 Except for OpenGl, you may install <b>GLFW</b> and <b>GLEW</b> for display;
 
-I use cmake, however i implement project only for MacOS system, so you have to control that.
+I use CMake, however i implement project only for MacOS system, so you have to control that.
 
 
 # Mandelbrot`s fractal

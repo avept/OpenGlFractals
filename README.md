@@ -1,6 +1,6 @@
 # OpenGlFractals
 
-There are several fractals written on C++ based on OpenGl to illustrate how it is beautiful..
+There are several fractals were written on C++ based on OpenGl to illustrate how it is beautiful..
 
 The Mandelbrot\`s fractal was written using naive Mandelbrot\`s algorithm.
 
